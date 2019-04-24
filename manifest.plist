@@ -17,13 +17,13 @@
                         </string>
                     </dict>
                     <dict>
-					    <key>kind</key>
-					    <string>full-size-image</string>
-					    <key>needs-shine</key>
-					    <true/>
-					    <key>url</key>
-					    <string>https://www.yun-bangshou.com/balaApp/512x512.png</string>
-				    </dict>
+			<key>kind</key>
+			<string>full-size-image</string>
+			<key>needs-shine</key>
+			<true/>
+			<key>url</key>
+			<string>https://www.yun-bangshou.com/balaApp/512x512.png</string>
+			</dict>
                     <dict>
                         <key>kind</key>
                         <string>display-image</string>
